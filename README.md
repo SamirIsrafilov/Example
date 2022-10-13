@@ -1,2 +1,1 @@
-# Example
- ReactJs
+ReactJs etdiyim tapşırıqlar.
